@@ -15,6 +15,7 @@ $A$ 是 adjacency matrix, $D$ 是 degree matrix,
 $$
 \hat{\mathrm{A}}=\mathrm{A+I} \tag{1-3}
 $$
+
 $$
  \hat{\mathrm{D}}=\mathrm{D+I} \tag{1-4}
 $$
@@ -380,7 +381,9 @@ $$
 
 GCN 在推导过程中采用了一些正则化和 trick，
 
-我们让参数进行共享，令 $\theta_{1}=-\theta_{0}$
+我们让参数进行共享，令 
+
+$\theta_{1}=-\theta_{0}$
 
 $$
 \theta_{0} - \theta_{1}D^{-\frac{1}{2}}AD^{-\frac{1}{2}}x \implies \theta_{0}(I+D^{-\frac{1}{2}}AD^{-\frac{1}{2}})x \tag{4-14}
