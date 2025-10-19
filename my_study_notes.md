@@ -69,7 +69,7 @@ $$
 A \vec{x}= \lambda \vec{x}, |\vec{x}| \neq 0 \tag{2-1}
 $$
 
-$\lambda$ 是 $A$ 的一个特征值，$\vec{x}$ 是 $A$ 的一个特征向量。
+$\lambda$ 是 $A$ 的一个特征值， $\vec{x}$ 是 $A$ 的一个特征向量。
 
 **实对称矩阵**
 
