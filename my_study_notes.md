@@ -286,6 +286,7 @@ $$
 ## 4-gcn
 
 定义图卷积操作
+
 $$
 F(A) \rightarrow L / L_{sym} \tag{4-1}
 $$
