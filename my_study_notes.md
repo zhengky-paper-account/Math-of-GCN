@@ -20,14 +20,13 @@ $$
 $$
 
 设 $D$ 为
-$$
+```math
 \begin{bmatrix}
 3 &   &   &  \\
   & 1 &   &  \\
   &   & 1 &  \\
   &   &   & 1
-\end{bmatrix} \tag{1-5}
-$$
+\end{bmatrix}
 添加自环后的 $\hat{\mathrm{D}}$ 为
 
 $$
